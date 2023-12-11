@@ -1,0 +1,13 @@
+C:\Users\SAM\Desktop\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\SAM\Desktop\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\SAM\Desktop\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\SAM\Desktop\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\SAM\Desktop\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\SAM\Desktop\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\SAM\Desktop\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
